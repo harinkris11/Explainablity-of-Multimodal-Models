@@ -1,5 +1,5 @@
-# Explainablity-of-Multimodal-Models
-This repository explores enhancing multimodal model explainability in pet adoption predictions, focusing on text, tabular, and image data integration. It features the 'Joint Masker' method, addressing SHAP explainer limitations in diverse data contexts.
+<!-- # Explainablity-of-Multimodal-Models
+This repository explores enhancing multimodal model explainability in pet adoption predictions, focusing on text, tabular, and image data integration. It features the 'Joint --Masker' method, addressing SHAP explainer limitations in diverse data contexts.-->
 # Explainability of Multimodal Models
 
 ## Summary
@@ -16,10 +16,20 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/harinkris11/Explainablity-of-Multimodal-Models.git
+  ```bash
+  git clone https://github.com/harinkris11/Explainablity-of-Multimodal-Models.git
+  ```
 
-cd Explainablity-of-Multimodal-Models
-pip install -r requirements.txt
-```
+2. **Install Dependencies**
+  Ensure you have Python 3.7+ installed. Navigate to the project directory and install the required Python packages:
+  ```bash
+  cd Explainablity-of-Multimodal-Models
+  pip install -r requirements.txt
+  ```
+## Contributors
 
+- **Harin Raja Radha Krishan** - Email: [hradhakrishnan@ucsd.edu](mailto:hradhakrishnan@ucsd.edu)
+
+- **Sai Kaushik Soma** - Email: [ssoma@ucsd.edu](mailto:ssoma@ucsd.edu)
+
+- **Venkata Harsha Vardhan Gangala** - Email: [vgangala@ucsd.edu](mailto:vgangala@ucsd.edu)
